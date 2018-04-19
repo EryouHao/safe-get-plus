@@ -1,6 +1,6 @@
 {
   "name": "safe-get-plus",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Securely get attributes from objects and can provide default value",
   "main": "index.js",
   "scripts": {
