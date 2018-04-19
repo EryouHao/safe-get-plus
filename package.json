@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EryouHao/safe-get-plus.git"
+  },
   "author": "EryouHao",
   "license": "MIT",
   "devDependencies": {
